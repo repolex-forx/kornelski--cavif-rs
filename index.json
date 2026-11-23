@@ -1,0 +1,11 @@
+{
+  "org": "kornelski",
+  "repo": "cavif-rs",
+  "versions": [
+    {
+      "commit": "e6abcbc6d689cac933492f4b141917d63361596a",
+      "tag": "v1.8.0",
+      "parsed_at": "2026-11-23T04:38:08.166049+00:00"
+    }
+  ]
+}
