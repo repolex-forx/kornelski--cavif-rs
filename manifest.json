@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "kornelski",
+  "repo": "cavif-rs",
+  "versions": [
+    {
+      "commit": "e6abcbc6d689cac933492f4b141917d63361596a",
+      "parsed_at": "2026-11-23T04:30:49.498294+00:00",
+      "tag": "v1.8.0",
+      "filetree": "filetree/e6abcbc6d689cac933492f4b141917d63361596a.nq.gz",
+      "blobs": [
+        "blob/021e5aec8df87f078f5c610522064066b5651ef7.nq.gz",
+        "blob/41f5d513b9d45d8a7696cf0d5db7ef47943055b8.nq.gz",
+        "blob/f89a211f32b9dbc5475b5ee08ded1fd668f08602.nq.gz",
+        "blob/7d9fa2401c025bfee35f66127081986ae4856648.nq.gz",
+        "blob/9d131b6d503ab25130e774100fa1671d77d01b59.nq.gz",
+        "blob/bf160182d3d52be55cb3befb103285387862634d.nq.gz",
+        "blob/5de37b3280f7bebb7eb662f2ac88c515da3b3b3c.nq.gz",
+        "blob/5f6cf7fd50caab558af111521c3e5a18c6975806.nq.gz",
+        "blob/ea5b60640b01f74e295037aa8a6b7d4ea278a739.nq.gz",
+        "blob/b4aa326e8c759f3baf541ecc8bca0ed2eef0c8cf.nq.gz",
+        "blob/afcd5f4cc280fe4b92eb33eb124da34cc970bc04.nq.gz",
+        "blob/0897941873402e5427baa5740af2f8de752b34e3.nq.gz",
+        "blob/16cfaa91259397baef67258fcd9b0c7afa14f36c.nq.gz",
+        "blob/9543bd0881f8bc76f48908d35fc79d482bcbe1ed.nq.gz",
+        "blob/2c96eb1b6517f2617f9ddeae9f07f5fd7bd7ddef.nq.gz",
+        "blob/1fecced2b4333bd7c371904b515d088aceb19a85.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
